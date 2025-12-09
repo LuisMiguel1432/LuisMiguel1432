@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sobre mí<br>Hello! I'm Luis Miguel, a junior developer taking my first steps into the professional world, highly motivated to learn and grow within the software development sector.
+Hello! I'm Luis Miguel, a junior developer taking my first steps into the professional world, highly motivated to learn and grow within the software development sector.
 
 I discovered my interest in programming during my studies, when I realized how fascinating it is to create real solutions through code. Throughout my training, I’ve become familiar with technologies and languages such as Java, C#, HTML, CSS, Blazor, ASP.NET, and Angular, gaining a solid foundation to begin my career as a developer.
 
