@@ -1,6 +1,13 @@
 # 💫 About Me:
-Sobre mí<br>¡Hola! Soy Luis Miguel, un desarrollador junior que está dando sus primeros pasos en el mundo laboral, con una gran motivación por aprender y crecer profesionalmente dentro del sector del desarrollo de software.<br><br>Descubrí mi interés por la programación durante mis estudios, cuando entendí lo fascinante que es crear soluciones reales a través del código. A lo largo de mi formación, me he familiarizado con tecnologías y lenguajes como Java, C#, HTML, CSS, Blazor, ASP.NET y Angular adquiriendo una base sólida para comenzar mi carrera como desarrollador.<br><br>Actualmente, estoy en búsqueda de una oportunidad donde pueda aplicar mis conocimientos, trabajar en equipo y seguir desarrollando tanto mis habilidades técnicas como personales. Me considero una persona comprometida, con actitud proactiva y con la firme intención de seguir formándome continuamente.<br><br>Próximos pasos:<br>Mi objetivo es integrarme en un equipo que me permita seguir creciendo profesionalmente, aprender de personas con experiencia y, a medio plazo, especializarme en áreas clave del desarrollo para aportar un valor real a los proyectos en los que participe.
+Sobre mí<br>Hello! I'm Luis Miguel, a junior developer taking my first steps into the professional world, highly motivated to learn and grow within the software development sector.
 
+I discovered my interest in programming during my studies, when I realized how fascinating it is to create real solutions through code. Throughout my training, I’ve become familiar with technologies and languages such as Java, C#, HTML, CSS, Blazor, ASP.NET, and Angular, gaining a solid foundation to begin my career as a developer.
+
+I am currently looking for an opportunity where I can apply my knowledge, work as part of a team, and continue developing both my technical and personal skills. I consider myself a committed person with a proactive attitude and a strong desire to keep learning continuously.
+<br><br>
+Next Steps:
+<br>
+My goal is to join a team that allows me to continue growing professionally, learn from experienced people, and, in the medium term, specialize in key areas of development to provide real value to the projects I participate in.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luismi_almeida.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-miguel-de-almeida-04939b2aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luismiguel.almeida.castro@gmail.com) 
